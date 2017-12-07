@@ -1,0 +1,160 @@
+* { 
+	box-sizing: border-box; 
+}
+header, nav, main, footer {
+	display: block;
+}
+body {
+	background-color: #2E6999;
+	font-family:  Arial, Georgia, sans-serif;
+	color: #AACCFF;
+}
+header {
+	background-color: #1E4766;
+	background-image: url(images/health.jpg);
+	background-position: right;
+	background-repeat: no-repeat;
+	height: 120px;
+}
+
+nav {
+	text-align: center;
+	font-weight: bold;
+}
+
+nav a {
+	text-decoration: none;
+	}
+
+h1 {
+	padding-top: 40px;
+	padding-left: 2em;
+	
+}
+
+main {
+	margin-left: 170px;
+	padding-left: 2em;
+	padding-right: 2em;
+	padding-top: 1em;
+	display: block;
+}
+
+.floatleft {
+	float: left;
+	margin-right: 4em;
+}
+
+.topnav {
+	display: block;
+	color: #AACCFF;
+	text-align: center;
+	padding: 20px 20px;
+	text-decoration: none;
+	font-size: 24px;
+}
+
+.studio	{
+	font-style: italic;
+}
+footer {
+	background-color: #1E4766;
+	font-size: 1em;
+	font-style: italic;
+	text-align: center;
+	padding: 1em;
+}
+table {
+	margin: auto;
+    border: 1px solid #3F2860;
+    width: 60%; 
+	border-collapse: collapse;
+	margin-bottom: 1em;
+}
+td, th { 
+	padding: 5px;
+	border: 1px solid #3F2860;
+}
+tr:nth-of-type(even) { 
+	background-color: #1E4766; 
+}
+@media only screen and (max-width: 1024px) {
+	body {
+		margin: 0;
+		padding: 0;
+	}
+	header {
+		padding-top: 1px;
+	}
+	nav {
+		float: none;
+		width: auto;
+		padding-left: 2em;
+		font-size: 2em;
+	}
+	nav a {
+		padding: 0.2em;
+		margin-left : 0.3em;
+		float: left;
+		width: 23%;
+	}
+	main {
+		padding-top: 2.5em;
+		padding-bottom: 2.5em;
+		padding-left: 1em;
+		padding-right: 1em;
+		margin: 0;
+		font-size: 90%;
+		clear: both;
+	}
+	h2, h3, p, dl {
+		padding-left: 2em;
+		padding-right: 2em;
+	}
+	main ul {
+		margin-left: 2em;
+	}
+	.floatleft {
+		margin-left: 2em;
+		margin-bottom: 1em;
+	}
+	.clear {
+		padding-left: 2em;
+	}
+}
+@media only all and (max-width: 768px) {
+	h1 {
+		font-size: 2em;
+		padding-top: 0.25em;
+		padding-left: 1.5em;
+		width: 85%;
+		text-align: center;
+	}
+	
+	nav {
+		float: left;
+		width: auto;
+		padding-left: 2em;
+	}
+	nav a {
+		padding: 0.2em;
+		margin-left : 0.3em;
+		float: left;
+		width: 23%;
+	}
+
+	main {
+		padding: 0;
+	}
+	.floatleft {
+		float: none;
+		display: none;
+	}
+	footer {
+		padding: 0.5em;
+		margin: 0;
+	}
+}
+	
+	
+

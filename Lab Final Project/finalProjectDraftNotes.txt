@@ -1,0 +1,35 @@
+Notes CS6251 Final Project draft
+
+09/30/17
+http://kathryn.strikingly.com/  - see this site for outline guidance
+and
+http://vakila.github.io/about/  - for ideas
+
+Initial pages:
+About Experience Projects Connect
+
+considerations:  github, linkedin links 
+
+
+
+http://stu.westga.edu/~kkraus2/yoga
+http://stu.westga.edu/~kkraus2/sadiebot
+http://stu.westga.edu/~kkraus2/portfolio
+
+
+
+index page
+background  pexels.com Creative Commons Zero License
+copyright and credits at botttom of page
+white text
+
+
+
+
+contact   page with email form is from Chapter12
+https://formspree.io/
+
+Hi,
+It looks like Formspree is working!
+This was submitted from http://stu.westga.edu/~kkraus2/portfolio then passed to Formspree which sent it to your email.
+

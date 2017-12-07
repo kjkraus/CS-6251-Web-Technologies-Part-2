@@ -1,0 +1,23 @@
+CS6251 Web Technologies I
+Final Project
+
+URL of published homepage
+http://stu.westga.edu/~kkraus2/portfolio
+
+Bootstrap Features
+CSS feature: responsive image (index.html and about.html)
+Bootstrap component: jumbotron  (about.html, experience.html, projects.html, and connect.html)
+JavaScript/jQuery component: JavaScript displays the date when the page has been modified most recently 
+  (footer on about.html, experience.html, projects.html, and connect.html pages)
+
+Form with 3 elements: (contact.html)
+processed by https://formspree.io/
+  see
+  contactFormTest.png
+  contactFormResults.png
+
+Extra Feature: 
+YouTube video: (experience.html)
+
+Home page (index.html) picture Credits:
+pexels.com Creative Commons Zero License
